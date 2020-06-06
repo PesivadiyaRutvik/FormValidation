@@ -2,6 +2,10 @@
 
 This project made using angular use templete driven form.
 
+## Stap to run localy 
+
+download first then open in cmd type npm insatll then ng serve then go browser and run using `http://localhost:4200/`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
