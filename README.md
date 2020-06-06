@@ -2,6 +2,10 @@
 
 This project made using angular use templete driven form.
 
+## Validtation Field
+
+Username, Password, Email, Date, Time, Photo, Country
+
 ## Stap to run localy 
 
 download first then open in cmd type npm insatll then ng serve then go browser and run using `http://localhost:4200/`
